@@ -1,4 +1,4 @@
-Hi! I’m _James McEwan_, a Front End Engineer from Scotland.
+Hi! I’m James McEwan, a Front End Engineer from Scotland.
 
 I love building things for the web, with a passion for performant, accessible apps, JavaScript, CSS, and all the Jamstack goodness.
 
